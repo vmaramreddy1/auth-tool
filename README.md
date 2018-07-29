@@ -1,2 +1,2 @@
 # auth-tool
-JSON Web Token used for authentication
+JSON Web Token based authentication
